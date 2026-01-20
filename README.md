@@ -33,12 +33,7 @@ game
 camera
 ​	
  ,[0,frame_width],[0,game_width])
-🚀 Installation & Setup
-Clone the repository:
 
-Bash
-git clone https://github.com/yourusername/ai-vision-pong.git
-cd ai-vision-pong
 Install dependencies:
 
 Bash
